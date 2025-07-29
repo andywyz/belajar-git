@@ -1,0 +1,9 @@
+puskesmas-system
+├── server.js
+├── package.json
+├── .env
+└── public/
+    ├── index.html
+    ├── js/
+    │   └── app.js
+    └── uploads/
